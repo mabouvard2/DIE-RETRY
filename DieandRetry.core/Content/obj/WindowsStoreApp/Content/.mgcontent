@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>WindowsStoreApp</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Bureau/FICHIERS/TRAVAIL/2A/DIE&amp;RETRY/FINAL/dieandretry/DieandRetry/DieandRetry.core/Content/Animations/12_nebula_spritesheet.png</File>
+    <File>D:/Bureau/FICHIERS/TRAVAIL/2A/DIE&amp;RETRY/FINAL/dieandretry/DieandRetry/DieandRetry.core/Content/Animations/13_vortex_spritesheet.png</File>
+    <File>D:/Bureau/FICHIERS/TRAVAIL/2A/DIE&amp;RETRY/FINAL/dieandretry/DieandRetry/DieandRetry.core/Content/Animations/14_phantom_spritesheet.png</File>
+    <File>D:/Bureau/FICHIERS/TRAVAIL/2A/DIE&amp;RETRY/FINAL/dieandretry/DieandRetry/DieandRetry.core/Content/Animations/hedge.png</File>
+    <File>D:/Bureau/FICHIERS/TRAVAIL/2A/DIE&amp;RETRY/FINAL/dieandretry/DieandRetry/DieandRetry.core/Content/Overlays/deathScreen.png</File>
+    <File>D:/Bureau/FICHIERS/TRAVAIL/2A/DIE&amp;RETRY/FINAL/dieandretry/DieandRetry/DieandRetry.core/Content/Sprites/asteroid.png</File>
+    <File>D:/Bureau/FICHIERS/TRAVAIL/2A/DIE&amp;RETRY/FINAL/dieandretry/DieandRetry/DieandRetry.core/Content/Sprites/Back/Nebula Aqua-Pink.png</File>
+    <File>D:/Bureau/FICHIERS/TRAVAIL/2A/DIE&amp;RETRY/FINAL/dieandretry/DieandRetry/DieandRetry.core/Content/Sprites/Back/Nebula Blue.png</File>
+    <File>D:/Bureau/FICHIERS/TRAVAIL/2A/DIE&amp;RETRY/FINAL/dieandretry/DieandRetry/DieandRetry.core/Content/Sprites/Back/Nebula Red.png</File>
+    <File>D:/Bureau/FICHIERS/TRAVAIL/2A/DIE&amp;RETRY/FINAL/dieandretry/DieandRetry/DieandRetry.core/Content/Sprites/Back/Stars Small_1.png</File>
+    <File>D:/Bureau/FICHIERS/TRAVAIL/2A/DIE&amp;RETRY/FINAL/dieandretry/DieandRetry/DieandRetry.core/Content/Sprites/Back/Stars Small_2.png</File>
+    <File>D:/Bureau/FICHIERS/TRAVAIL/2A/DIE&amp;RETRY/FINAL/dieandretry/DieandRetry/DieandRetry.core/Content/Sprites/Back/Stars-Big_1_1_PC.png</File>
+    <File>D:/Bureau/FICHIERS/TRAVAIL/2A/DIE&amp;RETRY/FINAL/dieandretry/DieandRetry/DieandRetry.core/Content/Sprites/Back/Stars-Big_1_2_PC.png</File>
+    <File>D:/Bureau/FICHIERS/TRAVAIL/2A/DIE&amp;RETRY/FINAL/dieandretry/DieandRetry/DieandRetry.core/Content/Sprites/neon.png</File>
+    <File>D:/Bureau/FICHIERS/TRAVAIL/2A/DIE&amp;RETRY/FINAL/dieandretry/DieandRetry/DieandRetry.core/Content/Sprites/Space_Stars6.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

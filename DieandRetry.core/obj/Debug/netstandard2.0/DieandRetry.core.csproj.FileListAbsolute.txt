@@ -1,0 +1,9 @@
+D:\Bureau\FICHIERS\TRAVAIL\2A\DIE&RETRY\FINAL\dieandretry\DieandRetry\DieandRetry.core\obj\Debug\netstandard2.0\DieandRetry.core.csprojAssemblyReference.cache
+D:\Bureau\FICHIERS\TRAVAIL\2A\DIE&RETRY\FINAL\dieandretry\DieandRetry\DieandRetry.core\obj\Debug\netstandard2.0\DieandRetry.core.AssemblyInfoInputs.cache
+D:\Bureau\FICHIERS\TRAVAIL\2A\DIE&RETRY\FINAL\dieandretry\DieandRetry\DieandRetry.core\obj\Debug\netstandard2.0\DieandRetry.core.AssemblyInfo.cs
+D:\Bureau\FICHIERS\TRAVAIL\2A\DIE&RETRY\FINAL\dieandretry\DieandRetry\DieandRetry.core\obj\Debug\netstandard2.0\DieandRetry.core.csproj.CoreCompileInputs.cache
+D:\Bureau\FICHIERS\TRAVAIL\2A\DIE&RETRY\FINAL\dieandretry\DieandRetry\DieandRetry.core\bin\Debug\netstandard2.0\DieandRetry.core.deps.json
+D:\Bureau\FICHIERS\TRAVAIL\2A\DIE&RETRY\FINAL\dieandretry\DieandRetry\DieandRetry.core\bin\Debug\netstandard2.0\DieandRetry.core.dll
+D:\Bureau\FICHIERS\TRAVAIL\2A\DIE&RETRY\FINAL\dieandretry\DieandRetry\DieandRetry.core\bin\Debug\netstandard2.0\DieandRetry.core.pdb
+D:\Bureau\FICHIERS\TRAVAIL\2A\DIE&RETRY\FINAL\dieandretry\DieandRetry\DieandRetry.core\obj\Debug\netstandard2.0\DieandRetry.core.dll
+D:\Bureau\FICHIERS\TRAVAIL\2A\DIE&RETRY\FINAL\dieandretry\DieandRetry\DieandRetry.core\obj\Debug\netstandard2.0\DieandRetry.core.pdb

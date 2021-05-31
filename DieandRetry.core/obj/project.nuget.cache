@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hK3n0VnIo3hNIhQfmzaZmx4u+spvYnpfJENvfaLvf/KN4AxtF4bGj76gvAInffgPFNR6nsz9n1C66E/z6oPr3Q==",
+  "success": true,
+  "projectFilePath": "D:\\Bureau\\FICHIERS\\TRAVAIL\\2A\\DIE&RETRY\\FINAL\\dieandretry\\DieandRetry\\DieandRetry.core\\DieandRetry.core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utilisateur\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Utilisateur\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\Utilisateur\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

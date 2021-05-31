@@ -1,0 +1,27 @@
+WinMetadata\Windows.winmd
+Content\Animations\12_nebula_spritesheet.xnb
+Content\Animations\13_vortex_spritesheet.xnb
+Content\Animations\14_phantom_spritesheet.xnb
+Content\Animations\hedge.xnb
+Content\Overlays\deathScreen.xnb
+Content\Sprites\asteroid.xnb
+Content\Sprites\Back\Nebula Aqua-Pink.xnb
+Content\Sprites\Back\Nebula Blue.xnb
+Content\Sprites\Back\Nebula Red.xnb
+Content\Sprites\Back\Stars Small_1.xnb
+Content\Sprites\Back\Stars Small_2.xnb
+Content\Sprites\Back\Stars-Big_1_1_PC.xnb
+Content\Sprites\Back\Stars-Big_1_2_PC.xnb
+Content\Sprites\neon.xnb
+Content\Sprites\Space_Stars6.xnb
+Assets\LockScreenLogo.scale-200.png
+Assets\SplashScreen.scale-200.png
+Assets\Square150x150Logo.scale-200.png
+Assets\Square44x44Logo.scale-200.png
+Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+Assets\StoreLogo.png
+Assets\Wide310x150Logo.scale-200.png
+App.xbf
+DieandRetry.xr.xml
+GamePage.xbf
+Properties\Default.rd.xml

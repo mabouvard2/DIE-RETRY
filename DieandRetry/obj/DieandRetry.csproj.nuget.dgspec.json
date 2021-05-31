@@ -1,0 +1,157 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Bureau\\FICHIERS\\TRAVAIL\\2A\\DIE&RETRY\\FINAL\\dieandretry\\DieandRetry\\DieandRetry\\DieandRetry.csproj": {}
+  },
+  "projects": {
+    "D:\\Bureau\\FICHIERS\\TRAVAIL\\2A\\DIE&RETRY\\FINAL\\dieandretry\\DieandRetry\\DieandRetry.core\\DieandRetry.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Bureau\\FICHIERS\\TRAVAIL\\2A\\DIE&RETRY\\FINAL\\dieandretry\\DieandRetry\\DieandRetry.core\\DieandRetry.core.csproj",
+        "projectName": "DieandRetry.core",
+        "projectPath": "D:\\Bureau\\FICHIERS\\TRAVAIL\\2A\\DIE&RETRY\\FINAL\\dieandretry\\DieandRetry\\DieandRetry.core\\DieandRetry.core.csproj",
+        "packagesPath": "C:\\Users\\Utilisateur\\.nuget\\packages\\",
+        "outputPath": "D:\\Bureau\\FICHIERS\\TRAVAIL\\2A\\DIE&RETRY\\FINAL\\dieandretry\\DieandRetry\\DieandRetry.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Utilisateur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "MonoGame.Framework.DesktopGL": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Bureau\\FICHIERS\\TRAVAIL\\2A\\DIE&RETRY\\FINAL\\dieandretry\\DieandRetry\\DieandRetry\\DieandRetry.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Bureau\\FICHIERS\\TRAVAIL\\2A\\DIE&RETRY\\FINAL\\dieandretry\\DieandRetry\\DieandRetry\\DieandRetry.csproj",
+        "projectName": "DieandRetry",
+        "projectPath": "D:\\Bureau\\FICHIERS\\TRAVAIL\\2A\\DIE&RETRY\\FINAL\\dieandretry\\DieandRetry\\DieandRetry\\DieandRetry.csproj",
+        "packagesPath": "C:\\Users\\Utilisateur\\.nuget\\packages\\",
+        "outputPath": "D:\\Bureau\\FICHIERS\\TRAVAIL\\2A\\DIE&RETRY\\FINAL\\dieandretry\\DieandRetry\\DieandRetry\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Utilisateur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {
+              "D:\\Bureau\\FICHIERS\\TRAVAIL\\2A\\DIE&RETRY\\FINAL\\dieandretry\\DieandRetry\\DieandRetry.core\\DieandRetry.core.csproj": {
+                "projectPath": "D:\\Bureau\\FICHIERS\\TRAVAIL\\2A\\DIE&RETRY\\FINAL\\dieandretry\\DieandRetry\\DieandRetry.core\\DieandRetry.core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.9, )"
+            },
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "MonoGame.Framework.WindowsUniversal": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
